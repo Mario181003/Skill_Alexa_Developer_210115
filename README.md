@@ -19,7 +19,7 @@ Desarrollar una skill para Alexa que permita a los usuarios acceder de manera se
 ### HISTORIAL DE TAREAS:
 |No.|Nombre|Potenciador|Estatus|
 |--|--|--|--|
-|7|Documentacion de Practica: Skill para Alexa|5|Activa|
+|7|Documentacion de Practica: Skill para Alexa|10|Activa|
 
 <h2> 1. Configuracion Inicial </h2>
 
@@ -39,8 +39,8 @@ Desarrollar una skill para Alexa que permita a los usuarios acceder de manera se
 
 | Captura | Descripción | 
 |:-------------:|:---------------|
-| <img src="https://github.com/user-attachments/assets/513a4df9-f68e-43f0-aed7-5d82e2ee0101"  width="300" height="100" style="margin-bottom: 5px;"> |En la parte superior haz click en `Code` para editar el codigo.|
-| <img src="https://github.com/user-attachments/assets/9fdfa934-6e00-4095-8ab8-49d1cd34d8e4"  width="300" height="100" style="margin-bottom: 5px;"> |Ahi mismo haz click en `Import Code` y importa el que descargaste y procede a editar el codigo de acuerdo a tus necesidades, como el mensaje inicial, tus cordenadas y tu API de OpenWeatherMap.|
+| <img src="https://github.com/user-attachments/assets/60ade783-05e2-4dc6-94a8-f87ea8a35292"  width="300" height="100" style="margin-bottom: 5px;"> |En la parte superior haz click en `Code` para editar el codigo.|
+| <img src="https://github.com/user-attachments/assets/11d38b59-7963-4581-8aa2-dc0b598c2e1f"  width="300" height="100" style="margin-bottom: 5px;"> |Ahi mismo haz click en `Import Code` y importa el que descargaste y procede a editar el codigo de acuerdo a tus necesidades, como el mensaje inicial, tus cordenadas y tu API de OpenWeatherMap.|
 | <img src="https://github.com/user-attachments/assets/1595bd76-8c9c-4f18-8b9b-16eb44035243"  width="300" height="100" style="margin-bottom: 5px;"> |Despues de editar tu codigo, siempre debes dar click en `Save` despues en `Deploy` para al final poder construirla dando click en `Build`.|
 
 <h2> 4. Edicion de la distribucion</h2>
